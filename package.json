@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ladrillo/deletemestatic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ladrillo/deletemestatic/issues"
+  },
+  "homepage": "https://github.com/Ladrillo/deletemestatic#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-react": "^7.17.0",
+    "live-server": "^1.2.1"
+  }
+}
